@@ -12,7 +12,8 @@ endif
 
 syntax enable
 filetype on
-colorscheme desert
+colorscheme molokai
+set t_Co=256
 set autoindent
 set clipboard=unnamed
 set expandtab
